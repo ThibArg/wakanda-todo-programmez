@@ -1,0 +1,1 @@
+﻿if(!loginByPassword('john', 'pass')) {	debugger;} else {	ds.Todo.query('done = false')}
